@@ -1,5 +1,7 @@
 # data-buffer
 
+This crate is **DEPRECATED** in favour of [`dync`](https://crates.io/crates/dync).
+
 A simple low-level data buffer type useful for IO and in homogeneous collections
 
 [![On crates.io](https://img.shields.io/crates/v/data_buffer.svg)](https://crates.io/crates/data_buffer)
