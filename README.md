@@ -1,6 +1,8 @@
 # data-buffer
 
-This crate is **DEPRECATED** in favour of [`dync`](https://crates.io/crates/dync).
+This crate is **DEPRECATED** in favour of [`dync`](https://crates.io/crates/dync). This repository will no longer accept issues or PRs.
+
+WARNING: This library exposes an unsound API (see https://github.com/elrnv/buffer/issues/2 for an example).
 
 A simple low-level data buffer type useful for IO and in homogeneous collections
 
